@@ -14,6 +14,7 @@ I design and modernize mission-critical platforms for port terminals and logisti
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -40,8 +41,10 @@ A cohesive set of projects for a fictional port terminal, each demonstrating a d
 |---|---|---|
 | [**port-gate-ops-api**](https://github.com/adonayjunior/port-gate-ops-api) | .NET, Clean Architecture, DDD, TDD | The anchor: gate appointment scheduling/check-in domain, 27 tests, Docker + CI |
 | [**user-accounts**](https://github.com/adonayjunior/user-accounts) | .NET + React/TypeScript | JWT auth module — hashing, CORS, protected routes, 12 tests |
+| [**spring-user-accounts**](https://github.com/adonayjunior/spring-user-accounts) | Java 21 + Spring Boot | Secure account lifecycle in a second backend stack — JWT, OpenAPI, web UI, 8 tests and a complete product case |
 | [**port-gate-portal**](https://github.com/adonayjunior/port-gate-portal) | React **and** Angular | The same management UI built twice, side by side, against the same API |
 | [**revenue-anomaly-detector**](https://github.com/adonayjunior/revenue-anomaly-detector) | .NET + Blazor | Rule-based + Z-score statistical anomaly detection on billing data, 15 tests |
+| [**gate-demand-forecasting**](https://github.com/adonayjunior/gate-demand-forecasting) | Python + pandas + scikit-learn + FastAPI | Leakage-safe time-series case: synthetic data, baseline comparison, explainability, API and product/model documentation |
 | [**tos-integration-service**](https://github.com/adonayjunior/tos-integration-service) | Groovy + Spring Boot | Generic terminal-system event ingestion middleware, 21 tests |
 
 #### 🔧 Quick wins & hobby projects
