@@ -22,6 +22,17 @@ I design and modernize mission-critical platforms for port terminals and logisti
 
 ---
 
+#### 🧭 Product leadership
+I connect product decisions to operational outcomes in complex, mission-critical environments:
+
+- Product vision, problem framing, user needs and jobs to be done
+- Discovery hypotheses, MVP definition and outcome-based roadmaps
+- Prioritization across business value, operational risk and technical feasibility
+- Success metrics, guardrails and analytics planning
+- Product and architecture trade-offs communicated to technical and business stakeholders
+
+---
+
 #### 📌 Featured projects — the "Port-Tech Ecosystem"
 A cohesive set of projects for a fictional port terminal, each demonstrating a different piece of the stack — architecture patterns, not proprietary business logic. Case study in every README.
 
