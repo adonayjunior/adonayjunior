@@ -56,6 +56,7 @@ A cohesive set of projects for a fictional port terminal, each demonstrating a d
 | [**basic-retro-arcade**](https://github.com/adonayjunior/basic-retro-arcade) | QB64 Phoenix Edition | Pong and Snake with persistent scores, separated game logic, 11 automated checks and graphical smoke testing |
 | [**observability-lab**](https://github.com/adonayjunior/observability-lab) | Python, OpenTelemetry, Jaeger, Prometheus, Grafana | Distributed traces and metrics across two services, with reproducible latency and failure scenarios |
 | [**go-service-sentinel**](https://github.com/adonayjunior/go-service-sentinel) | Go, Prometheus, Docker | Concurrent HTTP health checks with bounded goroutines, retries, snapshots, metrics, race detection and native fuzzing |
+| [**rust-log-inspector**](https://github.com/adonayjunior/rust-log-inspector) | Rust, Clap, Serde | Streaming JSONL/text log analysis with exact latency percentiles, explainable anomaly rules and property-based tests |
 | [**logistics-slot-optimizer**](https://github.com/adonayjunior/logistics-slot-optimizer) | Python, OR-Tools, FastAPI | Constraint-based appointment allocation versus a transparent baseline, with product metrics and guardrails |
 | [**runbook-copilot**](https://github.com/adonayjunior/runbook-copilot) | Python, scikit-learn, FastAPI | Citation-first retrieval, explicit refusal behavior and offline quality evaluations over synthetic runbooks |
 
