@@ -47,7 +47,7 @@ A cohesive set of projects for a fictional port terminal, each demonstrating a d
 | [**gate-demand-forecasting**](https://github.com/adonayjunior/gate-demand-forecasting) | Python + pandas + scikit-learn + FastAPI | Leakage-safe time-series case: synthetic data, baseline comparison, explainability, API and product/model documentation |
 | [**tos-integration-service**](https://github.com/adonayjunior/tos-integration-service) | Groovy + Spring Boot | Generic terminal-system event ingestion middleware, 21 tests |
 
-#### 🔧 Quick wins & hobby projects
+#### 🔧 Engineering labs & side projects
 | Project | Stack | What it shows |
 |---|---|---|
 | [**iot-playground**](https://github.com/adonayjunior/iot-playground) | Arduino, ESP32, Raspberry Pi | 5 small embedded/IoT projects with CI-verified builds |
