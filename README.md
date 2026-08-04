@@ -52,7 +52,9 @@ A cohesive set of projects for a fictional port terminal, each demonstrating a d
 |---|---|---|
 | [**iot-playground**](https://github.com/adonayjunior/iot-playground) | Arduino, ESP32, Raspberry Pi | 5 small embedded/IoT projects with CI-verified builds |
 | [**cpp-projects**](https://github.com/adonayjunior/cpp-projects) | C++ | Data structures & algorithms fundamentals, CMake + CI |
-| [**hra-project**](https://github.com/adonayjunior/hra-project) | PHP | Personal CRUD study project |
+| [**observability-lab**](https://github.com/adonayjunior/observability-lab) | Python, OpenTelemetry, Jaeger, Prometheus, Grafana | Distributed traces and metrics across two services, with reproducible latency and failure scenarios |
+| [**logistics-slot-optimizer**](https://github.com/adonayjunior/logistics-slot-optimizer) | Python, OR-Tools, FastAPI | Constraint-based appointment allocation versus a transparent baseline, with product metrics and guardrails |
+| [**runbook-copilot**](https://github.com/adonayjunior/runbook-copilot) | Python, scikit-learn, FastAPI | Citation-first retrieval, explicit refusal behavior and offline quality evaluations over synthetic runbooks |
 
 ---
 
